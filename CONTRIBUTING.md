@@ -1,9 +1,3 @@
-# Contributor Covenant Code of Conduct
+# Contributing
 
-## Our Pledge
-## Our Standards
-## Enforcement Responsibilities
-## Scope
-## Enforcement
-## Enforcement Guidelines
-## Attribution
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
