@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# Simple Interest Calculator Project
 
 This project is a simple interest calculator created for the IBM Git and GitHub Final Project.
 
